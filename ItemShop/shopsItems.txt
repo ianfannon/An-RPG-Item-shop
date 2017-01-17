@@ -1,0 +1,10 @@
+Steel Sword:  145
+Dwarven Sword:  165
+Steel Bow:  130
+Potion Healing:  140
+Potion Magika:  120
+Potion CurePoison:  86
+Steel Armour:  195
+Steel Helmet:  95
+Steel Gauntlets:  120
+Iron Sword:  100
